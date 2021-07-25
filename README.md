@@ -1,4 +1,4 @@
-# FileSystem_Analysis
+# File System_Analysis
 #NAME: Khoa Quach, Joshua Futterman #EMAIL: khoaquachschool@gmail.com, joshafuttcomp23@ucla.edu #ID: 105123806, 505347668
 
 Content: lab3b-105123806.tar.gz which contains:
